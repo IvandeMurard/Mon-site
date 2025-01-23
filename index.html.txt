@@ -67,12 +67,12 @@
 
     <section id="accueil">
         <h2>Accueil</h2>
-        <p>Bonjour, je suis [Votre Nom], [Votre Profession]. Je suis passionné par [votre domaine].</p>
+        <p>Bonjour, je suis [Ivan de Murard], [Chef de Projet Innovation]. Je suis passionné par [votre domaine].</p>
     </section>
 
     <section id="a-propos">
         <h2>À propos</h2>
-        <p>Avec [X années] d’expérience dans [secteur/profession], j’ai eu l’opportunité de [vos accomplissements clés].</p>
+        <p>Avec [5 années] d’expérience dans [la gestion de projet IT/Innovation], j’ai eu l’opportunité de [vos accomplissements clés].</p>
         <p>Mes objectifs incluent [vos objectifs professionnels].</p>
     </section>
 
@@ -83,7 +83,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 [Votre Nom]. Tous droits réservés.</p>
+        <p>&copy; 2025 [Ivan de Murard]. Tous droits réservés.</p>
     </footer>
 </body>
 </html>
